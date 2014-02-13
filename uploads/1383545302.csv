@@ -1,0 +1,21 @@
+name,course,enrollnumber,rollnumber,branch,admissiondate,email,mobile,dob,gender,address,city,fathername,fathermobile,mothername,mothermobile,fatheroccupation,fathersalary,motheroccupation,mothersalary,permanentaddress,state,ten,twelve,semone,semtwo,semthree,semfour,semfive,semsix,semseven,semeight
+CHETAN SHARMA,B.TECH,,10EMTCI010,CIVIL,,,,,MALE, ,,,,,,,0,,0,,,77,77,77,77,77,77,,,,
+DIGVIJAY,B.TECH,,10EMTCI011,CIVIL,,,,,MALE,,,,,,,,,,,,,,,,,,,,,,
+CHESTA CHAUHUN,B.TECH,,10EMTCI025,CIVIL,,chesta@gmail.com,,,FEMALE,,,,,,,,,,,,,77,88,88,44,44,55,88,99,55,44
+VIKAS TANWAR,B.TECH,,10EMTCI055,CIVIL,,,,,MALE,,,,,,,,,,,,,,,,,,,,,,
+ANJALI BHAGAVA,B.TECH,,10EMTCS003,COMPUTER SCIENCE,,,,,FEMALE, ,,,,,,,0,,0,,,64,65,65,65,65,65,65,65,65,56
+AJAY SINGAL,B.TECH,,10EMTCS004,COMPUTER SCIENCE,,,,,MALE,,,,,,,,,,,,,,,,,,,,,,
+AJAY PALIWAL,B.TECH,,10EMTCS005,COMPUTER SCIENCE,,ajay@gmai.com,,,MALE, ,,,,,,,0,,0,,,88,55,88,77,88,87,55,74,55,77
+SURBHI SHARMA,B.TECH,,10EMTCS050,COMPUTER SCIENCE,,surbhi@gmail.com,,,FEMALE,,,,,,,,,,,,,,,,,,,,,,
+ANIRUDH SANGA,B.TECH,,10EMTEC002,ELECTRONICS & COMMUNICATION,,,,,MALE,,,,,,,,,,,,,,,,,,,,,,
+BHUVNESH,B.TECH,,10EMTEC008,ELECTRONICS & COMMUNICATION,,bhuvnesh,,,MALE,,,,,,,,,,,,,,,,,,,,,,
+AJIT TANWAR,B.TECH,,10EMTEC012,ELECTRONICS & COMMUNICATION,,,,,MALE,,,,,,,,,,,,,,,,,,,,,,
+ANSHUL SHARMA,B.TECH,,10EMTIT006,INFORMATION TECHNOLOGY,,anshul@gmail.com,,,MALE,,,,,,,,,,,,,,,,,,,,,,
+BABLU,B.TECH,,10EMTIT009,INFORMATION TECHNOLOGY,,bablu@gmail.com,,,MALE,,,,,,,,,,,,,,,,,,,,,,
+DEEPENDER SINGH,B.TECH,,10EMTIT011,INFORMATION TECHNOLOGY,,,9529867628,,MALE,  ,,,,,,,0,,0,,,77,70,75,55,75,72,72,77,72,72
+DEEPIKA SHARMA,B.TECH,,10EMTIT012,INFORMATION TECHNOLOGY,,deepika@gmail.com,,,FEMALE,,,,,,,,,,,,,,,,,,,,,,
+PALAK KHENDELWAL,B.TECH,,10EMTIT022,INFORMATION TECHNOLOGY,,palak@gmail.com,,,FEMALE,,,,,,,,,,,,,,,,,,,,,,
+NIKITA SHARMA,B.TECH,,10EMTIT030,INFORMATION TECHNOLOGY,,,,,FEMALE, ,,,,,,,0,,0,,,77,77,99,99,99,77,99,77,99,77
+ANIRUDH MECH,B.TECH,,10EMTME005,MECHANICAL,,,,,MALE,,,,,,,,,,,,,,,,,,,,,,
+RAMVEER ,B.TECH,,10EMTME022,MECHANICAL,,ramveer@gmail.com,,,MALE,,,,,,,,,,,,,,,,,,,,,,
+CHETAN SHARMA,B.TECH,,10METCI001,CIVIL,,,,,MALE, ,,,,,,,0,,0,,,88,88,88,88,88,88,88,88,88,88

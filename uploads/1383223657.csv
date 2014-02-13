@@ -1,0 +1,5 @@
+name,course,enrollnumber,rollnumber,branch,admissiondate,email,mobile,dob,gender,address,city,fathername,fathermobile,mothername,mothermobile,fatheroccupation,fathersalary,motheroccupation,mothersalary,permanentaddress,state,ten,twelve,semone,semtwo,semthree,semfour,semfive,semsix,semseven,semeight
+ANJALI BHAGAVA,B.TECH,,10EMTCS003,COMPUTER SCIENCE,,,,,FEMALE, ,,,,,,,0,,0,,,64,65,65,65,65,65,65,65,65,56
+AJAY SINGAL,B.TECH,,10EMTCS004,COMPUTER SCIENCE,,,,,MALE,,,,,,,,,,,,,,,,,,,,,,
+AJAY PALIWAL,B.TECH,,10EMTCS005,COMPUTER SCIENCE,,ajay@gmai.com,,,MALE, ,,,,,,,0,,0,,,88,55,88,77,88,87,55,74,55,77
+SURBHI SHARMA,B.TECH,,10EMTCS050,COMPUTER SCIENCE,,surbhi@gmail.com,,,FEMALE,,,,,,,,,,,,,,,,,,,,,,

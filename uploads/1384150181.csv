@@ -1,0 +1,7 @@
+name,course,enrollnumber,rollnumber,branch,admissiondate,email,mobile,dob,gender,address,city,fathername,fathermobile,mothername,mothermobile,fatheroccupation,fathersalary,motheroccupation,mothersalary,permanentaddress,state,ten,twelve,semone,semtwo,semthree,semfour,semfive,semsix,semseven,semeight
+ANSHUL SHARMA,B.TECH,,10EMTIT006,INFORMATION TECHNOLOGY,,anshul@gmail.com,,,MALE,,,,,,,,,,,,,,,,,,,,,,
+BABLU,B.TECH,,10EMTIT009,INFORMATION TECHNOLOGY,,bablu@gmail.com,,,MALE,,,,,,,,,,,,,,,,,,,,,,
+DEEPENDER SINGH,B.TECH,,10EMTIT011,INFORMATION TECHNOLOGY,,,9529867628,,MALE,  ,,,,,,,0,,0,,,77,70,75,55,75,72,72,77,72,72
+DEEPIKA SHARMA,B.TECH,,10EMTIT012,INFORMATION TECHNOLOGY,,deepika@gmail.com,,,FEMALE,,,,,,,,,,,,,,,,,,,,,,
+PALAK KHENDELWAL,B.TECH,,10EMTIT022,INFORMATION TECHNOLOGY,,palak@gmail.com,,,FEMALE,,,,,,,,,,,,,,,,,,,,,,
+NIKITA SHARMA,B.TECH,,10EMTIT030,INFORMATION TECHNOLOGY,,,,,FEMALE, ,,,,,,,0,,0,,,77,77,99,99,99,77,99,77,99,77
